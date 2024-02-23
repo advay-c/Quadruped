@@ -1,6 +1,0 @@
-{
-    "configuration": "cpu=atmega328",
-    "board": "arduino:avr:nano",
-    "port": "COM3",
-    "sketch": "Quadruped_Turning-6M\\Quadruped_Turning-6M.ino"
-}
